@@ -12,7 +12,7 @@
     <body background="img/princi.png" alt="fondo"> 
     
         
-            <form method="post" action="html/login.html"  onsubmit="return validar()" > 
+            <form method="post" action="html/LoginRegistro.html"  onsubmit="return validar()" > 
                 <h1 class="titul">
                     <input  style="margin: 10px" class="btn" type="submit" value="Registrate">
                     <input type="hidden" name="paginas" value="index"/> 
